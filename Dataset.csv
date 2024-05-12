@@ -1,0 +1,262 @@
+﻿NEW DATASET
+
+Experiencer,Experiencer_Age,Experiencer_Gender,Product,Event,Basic Emotion,Valence,Degree,Behaviour
+Alice,25,Female,Phone,Texting friends,Joy,Positive,High,Sharing memes
+Bob,30,Male,Tablet,Watching movie,Sadness,Negative,Low,Eating snacks
+Charlie,35,Male,Laptop,Writing report,Neutral,Neutral,Medium,Listening to music
+Diana,28,Female,Smartphone,Playing games,Anger,Negative,High,Yelling at screen
+Eve,32,Female,Desktop,Online shopping,Fear,Negative,Medium,Avoiding checkout
+Frank,27,Male,Smartwatch,Checking heart rate,Disgust,Negative,Low,Wiping watch
+Grace,29,Female,Laptop,Video calling,Joy,Positive,High,Laughing with friends
+Henry,34,Male,Tablet,Reading news,Neutral,Neutral,Low,Scrolling down
+Ivy,31,Female,Laptop,Attending webinar,Joy,Positive,Medium,Engaging in discussions
+Jack,33,Male,Desktop,Coding,Neutral,Neutral,High,Debugging code
+Katie,26,Female,Smartphone,Listening to music,Joy,Positive,High,Dancing around
+Liam,28,Male,Smartwatch,Checking heart rate,Excitement,Positive,High,Feeling motivated
+Mia,30,Female,Tablet,Listening to podcasts,Joy,Positive,High,Relaxing on couch
+Noah,29,Male,Smartwatch,Tracking fitness goals,Joy,Positive,High,Feeling accomplished
+Olivia,32,Female,Laptop,Reading novels,Sadness,Negative,Low,Reflecting on life
+Peter,31,Male,Laptop,Watching comedy series,Neutral,Neutral,High,Laughing out loud
+Quinn,33,Female,Desktop,Playing video games,Excitement,Positive,High,Competing with friends
+Rachel,27,Female,Smartphone,Checking social media,Neutral,Neutral,Low,Scrolling through feed
+Sam,34,Male,Laptop,Editing photos,Joy,Positive,High,Creating memories
+Tina,26,Female,Smartwatch,Online shopping,Excitement,Positive,High,Adding items to cart
+Uma,30,Female,Tablet,Listening to podcasts,Joy,Positive,High,Relaxing on couch
+Victor,32,Male,Smartwatch,Monitoring sleep,Joy,Positive,High,Resting peacefully
+Wendy,29,Female,Desktop,Watching tutorials,Joy,Positive,Medium,Learning new skills
+Xavier,35,Male,Smartphone,Writing code,Neutral,Neutral,High,Problem-solving
+Yara,28,Female,Tablet,Texting family,Neutral,Neutral,Medium,Staying connected
+Zoe,31,Female,Desktop,Reading articles,Interest,Positive,Medium,Expanding knowledge
+Aaron,33,Male,Smartwatch,Setting reminders,Neutral,Neutral,Low,Staying organized
+Ava,30,Female,Laptop,Playing strategy games,Excitement,Positive,High,Planning tactics
+Benjamin,28,Male,Desktop,Watching documentaries,Fascination,Positive,Medium,Learning new things
+Charlotte,32,Female,Smartphone,Checking emails,Neutral,Neutral,Low,Replying to messages
+Daniel,29,Male,Tablet,Browsing social media,Neutral,Neutral,Low,Scrolling through timeline
+Emily,31,Female,Desktop,Creating digital art,Inspiration,Positive,High,Expressing creativity
+Finn,33,Male,Smartwatch,Tracking steps,Joy,Positive,High,Feeling accomplished
+Isabella,27,Female,Smartphone,Playing puzzle games,Focus,Neutral,High,Problem-solving
+Jacob,34,Male,Tablet,Reading blogs,Interest,Positive,Medium,Exploring new ideas
+Katie,26,Female,Smartwatch,Checking social media,Neutral,Neutral,Low,Scrolling through feed
+Liam,28,Male,Laptop,Watching sports matches,Excitement,Positive,High,Cheering for favorite team
+Mila,29,Female,Smartwatch,Video calling family,Love,Positive,High,Connecting with loved ones
+Penelope,32,Female,Smartphone,Setting activity goals,Motivation,Positive,High,Striving for improvement
+Ryan,31,Male,Smartphone,Checking social media,Neutral,Neutral,Low,Scrolling through feed
+Aarav,26,Male,Smartwatch,Monitoring heart rate,Excitement,Positive,High,Feeling energized
+Aarush,28,Male,Tablet,Reading articles,Interest,Positive,Medium,Exploring new ideas
+Abhinav,30,Male,Laptop,Watching sports matches,Excitement,Positive,High,Cheering for favorite team
+Aditi,29,Female,Smartphone,Texting family,Neutral,Neutral,Medium,Staying connected
+Advait,31,Male,Smartwatch,Setting reminders,Neutral,Neutral,Low,Staying organized
+Aishwarya,27,Female,Desktop,Creating digital art,Inspiration,Positive,High,Expressing creativity
+Akash,33,Male,Smartphone,Listening to podcasts,Joy,Positive,High,Relaxing on couch
+Akshay,32,Male,Tablet,Playing video games,Excitement,Positive,High,Competing with friends
+Amit,28,Male,Smartwatch,Tracking fitness goals,Joy,Positive,High,Feeling accomplished
+Amrita,30,Female,Smartphone,Checking social media,Neutral,Neutral,Low,Scrolling through feed
+Ananya,29,Female,Laptop,Editing photos,Joy,Positive,High,Creating memories
+Aniket,31,Male,Smartwatch,Monitoring sleep,Joy,Positive,High,Resting peacefully
+Ananya,26,Female,Tablet,Listening to podcasts,Joy,Positive,High,Relaxing on couch
+Anjali,28,Female,Laptop,Reading novels,Sadness,Negative,Low,Reflecting on life
+Ankit,32,Male,Desktop,Playing strategy games,Excitement,Positive,High,Planning tactics
+Anurag,30,Male,Smartphone,Checking emails,Neutral,Neutral,Low,Replying to messages
+Arya,29,Female,Tablet,Online shopping,Excitement,Positive,High,Adding items to cart
+Atharva,27,Male,Smartwatch,Setting activity goals,Motivation,Positive,High,Striving for improvement
+Ayush,30,Male,Desktop,Watching tutorials,Joy,Positive,Medium,Learning new skills
+Bhavana,28,Female,Smartphone,Listening to music,Joy,Positive,High,Dancing around
+Chetan,31,Male,Tablet,Reading news,Neutral,Neutral,Low,Scrolling down
+Daksh,29,Male,Smartwatch,Checking heart rate,Excitement,Positive,High,Feeling energized
+Deepika,33,Female,Laptop,Watching comedy series,Neutral,Neutral,High,Laughing out loud
+Dev,30,Male,Desktop,Playing video games,Excitement,Positive,High,Competing with friends
+Disha,27,Female,Smartphone,Checking social media,Neutral,Neutral,Low,Scrolling through feed
+Divya,31,Female,Laptop,Editing photos,Joy,Positive,High,Creating memories
+Gaurav,28,Male,Smartwatch,Tracking fitness goals,Joy,Positive,High,Feeling accomplished
+Harsh,30,Male,Tablet,Listening to podcasts,Joy,Positive,High,Relaxing on couch
+Isha,29,Female,Laptop,Reading novels,Sadness,Negative,Low,Reflecting on life
+Jai,32,Male,Desktop,Playing strategy games,Excitement,Positive,High,Planning tactics
+Kajal,30,Female,Smartphone,Checking emails,Neutral,Neutral,Low,Replying to messages
+Karan,27,Male,Tablet,Online shopping,Excitement,Positive,High,Adding items to cart
+Kirti,31,Female,Smartwatch,Setting activity goals,Motivation,Positive,High,Striving for improvement
+Krish,29,Male,Desktop,Watching tutorials,Joy,Positive,Medium,Learning new skills
+Kriti,33,Female,Smartphone,Listening to music,Joy,Positive,High,Dancing around
+Lalit,28,Male,Tablet,Reading news,Neutral,Neutral,Low,Scrolling down
+Mahesh,30,Male,Smartwatch,Checking heart rate,Excitement,Positive,High,Feeling energized
+Manasvi,27,Female,Laptop,Watching comedy series,Neutral,Neutral,High,Laughing out loud
+Manish,31,Male,Desktop,Playing video games,Excitement,Positive,High,Competing with friends
+Maya,29,Female,Smartphone,Checking social media,Neutral,Neutral,Low,Scrolling through feed
+Meera,32,Female,Laptop,Editing photos,Joy,Positive,High,Creating memories
+Mira,28,Female,Smartwatch,Tracking fitness goals,Joy,Positive,High,Feeling accomplished
+Mohan,30,Male,Tablet,Listening to podcasts,Joy,Positive,High,Relaxing on couch
+Nandini,29,Female,Laptop,Reading novels,Sadness,Negative,Low,Reflecting on life
+Neha,31,Female,Desktop,Playing strategy games,Excitement,Positive,High,Planning tactics
+Nikhil,27,Male,Smartphone,Checking emails,Neutral,Neutral,Low,Replying to messages
+Nirav,32,Male,Tablet,Online shopping,Excitement,Positive,High,Adding items to cart
+Nisha,30,Female,Smartwatch,Setting activity goals,Motivation,Positive,High,Striving for improvement
+Nitish,29,Male,Desktop,Watching tutorials,Joy,Positive,Medium,Learning new skills
+Pooja,33,Female,Smartphone,Listening to music,Joy,Positive,High,Dancing around
+Prachi,28,Female,Tablet,Reading news,Neutral,Neutral,Low,Scrolling down
+Pranav,30,Male,Smartwatch,Checking heart rate,Excitement,Positive,High,Feeling energized
+Pratik,27,Male,Laptop,Watching comedy series,Neutral,Neutral,High,Laughing out loud
+Priya,31,Female,Desktop,Playing video games,Excitement,Positive,High,Competing with friends
+Rahul,29,Male,Smartphone,Checking social media,Neutral,Neutral,Low,Scrolling through feed
+Raj,32,Male,Laptop,Editing photos,Joy,Positive,High,Creating memories
+Rajesh,28,Male,Smartwatch,Tracking fitness goals,Joy,Positive,High,Feeling accomplished
+Rakesh,30,Male,Tablet,Listening to podcasts,Joy,Positive,High,Relaxing on couch
+Raman,29,Male,Laptop,Reading novels,Sadness,Negative,Low,Reflecting on life
+Riya,31,Female,Desktop,Playing strategy games,Excitement,Positive,High,Planning tactics
+Rohan,27,Male,Smartphone,Checking emails,Neutral,Neutral,Low,Replying to messages
+Rohit,32,Male,Tablet,Online shopping,Excitement,Positive,High,Adding items to cart
+Sahil,30,Male,Smartwatch,Setting activity goals,Motivation,Positive,High,Striving for improvement
+Sakshi,28,Female,Desktop,Watching tutorials,Joy,Positive,Medium,Learning new skills
+Samaira,33,Female,Smartphone,Listening to music,Joy,Positive,High,Dancing around
+Samir,29,Male,Tablet,Reading news,Neutral,Neutral,Low,Scrolling down
+Sanjay,31,Male,Smartwatch,Checking heart rate,Excitement,Positive,High,Feeling energized
+Sanya,27,Female,Laptop,Watching comedy series,Neutral,Neutral,High,Laughing out loud
+Sarvesh,30,Male,Desktop,Playing video games,Excitement,Positive,High,Competing with friends
+Shanaya,29,Female,Smartphone,Checking social media,Neutral,Neutral,Low,Scrolling through feed
+Shivam,32,Male,Laptop,Editing photos,Joy,Positive,High,Creating memories
+Shreya,28,Female,Smartwatch,Tracking fitness goals,Joy,Positive,High,Feeling accomplished
+Siddharth,30,Male,Tablet,Listening to podcasts,Joy,Positive,High,Relaxing on couch
+Simran,29,Female,Laptop,Reading novels,Sadness,Negative,Low,Reflecting on life
+Soham,31,Male,Desktop,Playing strategy games,Excitement,Positive,High,Planning tactics
+Sonal,27,Female,Smartphone,Checking emails,Neutral,Neutral,Low,Replying to messages
+Sudhir,32,Male,Tablet,Online shopping,Excitement,Positive,High,Adding items to cart
+Tanvi,30,Female,Smartwatch,Setting activity goals,Motivation,Positive,High,Striving for improvement
+Tanya,28,Female,Desktop,Watching tutorials,Joy,Positive,Medium,Learning new skills
+Utkarsh,33,Male,Smartphone,Listening to music,Joy,Positive,High,Dancing around
+Vaibhav,29,Male,Tablet,Reading news,Neutral,Neutral,Low,Scrolling down
+Varun,31,Male,Smartwatch,Checking heart rate,Excitement,Positive,High,Feeling energized
+Vedant,27,Male,Laptop,Watching comedy series,Neutral,Neutral,High,Laughing out loud
+Vidhi,30,Female,Desktop,Playing video games,Excitement,Positive,High,Competing with friends
+Vikas,32,Male,Smartphone,Checking social media,Neutral,Neutral,Low,Scrolling through feed
+Yash,28,Male,Smartwatch,Tracking fitness goals,Joy,Positive,High,Feeling accomplished
+Yashvi,31,Female,Laptop,Editing photos,Joy,Positive,High,Creating memories
+Yuvraj,29,Male,Tablet,Listening to podcasts,Joy,Positive,High,Relaxing on couch
+Zara,30,Female,Laptop,Reading novels,Sadness,Negative,Low,Reflecting on life
+
+
+Ahmet,28,Male,Smartwatch,Monitoring heart rate,Excitement,Positive,High,Feeling energized
+Ali,30,Male,Tablet,Reading articles,Interest,Positive,Medium,Exploring new ideas
+Aylin,29,Female,Laptop,Watching sports matches,Excitement,Positive,High,Cheering for favorite team
+Baran,27,Male,Smartphone,Texting family,Neutral,Neutral,Medium,Staying connected
+Berk,31,Male,Smartwatch,Setting reminders,Neutral,Neutral,Low,Staying organized
+Büşra,26,Female,Desktop,Creating digital art,Inspiration,Positive,High,Expressing creativity
+Cem,32,Male,Smartphone,Listening to podcasts,Joy,Positive,High,Relaxing on couch
+Deniz,33,Male,Tablet,Playing video games,Excitement,Positive,High,Competing with friends
+Dilara,28,Female,Smartwatch,Tracking fitness goals,Joy,Positive,High,Feeling accomplished
+Efe,30,Male,Smartphone,Checking social media,Neutral,Neutral,Low,Scrolling through feed
+Elif,31,Female,Laptop,Editing photos,Joy,Positive,High,Creating memories
+Emir,29,Male,Smartwatch,Monitoring sleep,Joy,Positive,High,Resting peacefully
+Eren,27,Male,Tablet,Listening to podcasts,Joy,Positive,High,Relaxing on couch
+Esra,28,Female,Laptop,Reading novels,Sadness,Negative,Low,Reflecting on life
+Evren,30,Female,Desktop,Playing strategy games,Excitement,Positive,High,Planning tactics
+Fatih,32,Male,Smartphone,Checking emails,Neutral,Neutral,Low,Replying to messages
+Gizem,29,Female,Tablet,Online shopping,Excitement,Positive,High,Adding items to cart
+Görkem,31,Male,Smartwatch,Setting activity goals,Motivation,Positive,High,Striving for improvement
+Güneş,27,Female,Smartphone,Listening to music,Joy,Positive,High,Dancing around
+Güven,28,Male,Tablet,Reading news,Neutral,Neutral,Low,Scrolling down
+Hakan,30,Male,Smartwatch,Checking heart rate,Excitement,Positive,High,Feeling energized
+Hande,33,Female,Laptop,Watching comedy series,Neutral,Neutral,High,Laughing out loud
+Hasan,29,Male,Desktop,Playing video games,Excitement,Positive,High,Competing with friends
+Hazal,31,Female,Smartphone,Checking social media,Neutral,Neutral,Low,Scrolling through feed
+İbrahim,28,Male,Smartwatch,Setting reminders,Neutral,Neutral,Low,Staying organized
+İlayda,30,Female,Desktop,Creating digital art,Inspiration,Positive,High,Expressing creativity
+İpek,27,Female,Smartphone,Listening to podcasts,Joy,Positive,High,Relaxing on couch
+İsmail,32,Male,Tablet,Playing video games,Excitement,Positive,High,Competing with friends
+Kaan,29,Male,Smartwatch,Tracking fitness goals,Joy,Positive,High,Feeling accomplished
+Kübra,31,Female,Desktop,Watching comedy series,Neutral,Neutral,High,Laughing out loud
+Levent,28,Male,Smartphone,Checking emails,Neutral,Neutral,Low,Replying to messages
+Mehmet,30,Male,Tablet,Online shopping,Excitement,Positive,High,Adding items to cart
+Melis,33,Female,Smartwatch,Setting activity goals,Motivation,Positive,High,Striving for improvement
+Mert,27,Male,Laptop,Watching sports matches,Excitement,Positive,High,Cheering for favorite team
+Miray,29,Female,Smartphone,Listening to music,Joy,Positive,High,Dancing around
+Murat,31,Male,Desktop,Editing photos,Joy,Positive,High,Creating memories
+Mustafa,28,Male,Smartwatch,Tracking fitness goals,Joy,Positive,High,Feeling accomplished
+Nazlı,30,Female,Tablet,Listening to podcasts,Joy,Positive,High,Relaxing on couch
+Onur,32,Male,Desktop,Watching comedy series,Neutral,Neutral,High,Laughing out loud
+Ömer,27,Male,Smartphone,Checking social media,Neutral,Neutral,Low,Scrolling through feed
+Özge,29,Female,Smartwatch,Monitoring heart rate,Excitement,Positive,High,Feeling energized
+Pınar,31,Female,Laptop,Reading novels,Sadness,Negative,Low,Reflecting on life
+Rıza,28,Male,Desktop,Playing strategy games,Excitement,Positive,High,Planning tactics
+Seda,30,Female,Smartphone,Checking emails,Neutral,Neutral,Low,Replying to messages
+Serkan,33,Male,Tablet,Online shopping,Excitement,Positive,High,Adding items to cart
+Serra,27,Female,Smartwatch,Setting activity goals,Motivation,Positive,High,Striving for improvement
+Sibel,29,Female,Laptop,Watching sports matches,Excitement,Positive,High,Cheering for favorite team
+Sinan,31,Male,Desktop,Creating digital art,Inspiration,Positive,High,Expressing creativity
+Şule,28,Female,Smartphone,Listening to music,Joy,Positive,High,Dancing around
+Tolga,30,Male,Tablet,Playing video games,Excitement,Positive,High,Competing with friends
+Tuğba,32,Female,Smartwatch,Tracking fitness goals,Joy,Positive,High,Feeling accomplished
+Turan,27,Male,Desktop,Editing photos,Joy,Positive,High,Creating memories
+Umut,29,Male,Smartphone,Listening to podcasts,Joy,Positive,High,Relaxing on couch
+Yasemin,31,Female,Tablet,Reading news,Neutral,Neutral,Low,Scrolling down
+Yiğit,28,Male,Smartwatch,Checking heart rate,Excitement,Positive,High,Feeling energized
+Zeynep,30,Female,Laptop,Watching comedy series,Neutral,Neutral,High,Laughing out loud
+
+
+Lionel,30,Male,Smartwatch,Tracking fitness goals,Joy,Positive,High,Feeling accomplished
+Cristiano,35,Male,Tablet,Reading articles,Interest,Positive,Medium,Exploring new ideas
+Neymar,29,Male,Laptop,Watching sports matches,Excitement,Positive,High,Cheering for favorite team
+Kylian,27,Male,Smartphone,Texting family,Neutral,Neutral,Medium,Staying connected
+Mohamed,28,Male,Smartwatch,Setting reminders,Neutral,Neutral,Low,Staying organized
+Luka,32,Male,Desktop,Creating digital art,Inspiration,Positive,High,Expressing creativity
+Kevin,31,Male,Smartphone,Listening to podcasts,Joy,Positive,High,Relaxing on couch
+Robert,29,Male,Tablet,Playing video games,Excitement,Positive,High,Competing with friends
+Virgil,30,Male,Smartwatch,Tracking fitness goals,Joy,Positive,High,Feeling accomplished
+Sadio,28,Male,Smartphone,Checking social media,Neutral,Neutral,Low,Scrolling through feed
+Eden,31,Male,Laptop,Editing photos,Joy,Positive,High,Creating memories
+Harry,29,Male,Smartwatch,Monitoring sleep,Joy,Positive,High,Resting peacefully
+Sergio,27,Male,Tablet,Listening to podcasts,Joy,Positive,High,Relaxing on couch
+Paulo,30,Male,Laptop,Reading novels,Sadness,Negative,Low,Reflecting on life
+Thiago,28,Male,Desktop,Playing strategy games,Excitement,Positive,High,Planning tactics
+Sergio,32,Male,Smartphone,Checking emails,Neutral,Neutral,Low,Replying to messages
+Raheem,33,Male,Tablet,Online shopping,Excitement,Positive,High,Adding items to cart
+Romelu,31,Male,Smartwatch,Setting activity goals,Motivation,Positive,High,Striving for improvement
+Gareth,27,Male,Smartphone,Listening to music,Joy,Positive,High,Dancing around
+Toni,29,Male,Tablet,Reading news,Neutral,Neutral,Low,Scrolling down
+Antoine,30,Male,Smartwatch,Checking heart rate,Excitement,Positive,High,Feeling energized
+Manuel,28,Male,Laptop,Watching comedy series,Neutral,Neutral,High,Laughing out loud
+Bruno,31,Male,Desktop,Playing video games,Excitement,Positive,High,Competing with friends
+Jordan,29,Male,Smartphone,Checking social media,Neutral,Neutral,Low,Scrolling through feed
+James,30,Male,Smartwatch,Setting reminders,Neutral,Neutral,Low,Staying organized
+Frenkie,27,Male,Desktop,Creating digital art,Inspiration,Positive,High,Expressing creativity
+Joshua,32,Male,Smartphone,Listening to podcasts,Joy,Positive,High,Relaxing on couch
+Dries,28,Male,Tablet,Playing video games,Excitement,Positive,High,Competing with friends
+Kai,30,Male,Smartwatch,Tracking fitness goals,Joy,Positive,High,Feeling accomplished
+Angel,31,Male,Desktop,Watching comedy series,Neutral,Neutral,High,Laughing out loud
+Mauro,27,Male,Smartphone,Checking emails,Neutral,Neutral,Low,Replying to messages
+Youssef,29,Male,Tablet,Online shopping,Excitement,Positive,High,Adding items to cart
+Gianluigi,30,Male,Smartwatch,Setting activity goals,Motivation,Positive,High,Striving for improvement
+Mohammed,28,Male,Smartphone,Listening to music,Joy,Positive,High,Dancing around
+Wojciech,31,Male,Tablet,Reading news,Neutral,Neutral,Low,Scrolling down
+Hakim,27,Male,Smartwatch,Checking heart rate,Excitement,Positive,High,Feeling energized
+Gerard,29,Male,Laptop,Watching comedy series,Neutral,Neutral,High,Laughing out loud
+Nicolò,30,Male,Desktop,Playing video games,Excitement,Positive,High,Competing with friends
+Nathan,32,Male,Smartphone,Checking social media,Neutral,Neutral,Low,Scrolling through feed
+Marco,28,Male,Smartwatch,Setting reminders,Neutral,Neutral,Low,Staying organized
+Tammy,30,Male,Tablet,Online shopping,Excitement,Positive,High,Adding items to cart
+Benjamin,31,Male,Smartwatch,Setting activity goals,Motivation,Positive,High,Striving for improvement
+Bernardo,27,Male,Smartphone,Listening to music,Joy,Positive,High,Dancing around
+Toby,29,Male,Tablet,Reading news,Neutral,Neutral,Low,Scrolling down
+Kasper,30,Male,Smartwatch,Checking heart rate,Excitement,Positive,High,Feeling energized
+Diego,28,Male,Laptop,Watching comedy series,Neutral,Neutral,High,Laughing out loud
+David,31,Male,Desktop,Playing video games,Excitement,Positive,High,Competing with friends
+Rodrigo,29,Male,Smartphone,Checking social media,Neutral,Neutral,Low,Scrolling through feed
+Pierre-Emerick,32,Male,Smartwatch,Setting reminders,Neutral,Neutral,Low,Staying organized
+Axel,27,Male,Smartwatch,Tracking fitness goals,Joy,Positive,High,Feeling accomplished
+Mohamed,30,Male,Tablet,Online shopping,Excitement,Positive,High,Adding items to cart
+Georginio,31,Male,Smartwatch,Setting activity goals,Motivation,Positive,High,Striving for improvement
+Marcos,28,Male,Smartphone,Listening to music,Joy,Positive,High,Dancing around
+Federico,29,Male,Tablet,Reading news,Neutral,Neutral,Low,Scrolling down
+Jordan,30,Male,Smartwatch,Checking heart rate,Excitement,Positive,High,Feeling energized
+Memphis,31,Male,Laptop,Watching comedy series,Neutral,Neutral,High,Laughing out loud
+Francisco,27,Male,Desktop,Playing video games,Excitement,Positive,High,Competing with friends
+Josef,29,Male,Smartphone,Checking social media,Neutral,Neutral,Low,Scrolling through feed
+Giovanni,32,Male,Smartwatch,Setting reminders,Neutral,Neutral,Low,Staying organized
+Achraf,28,Male,Smartwatch,Tracking fitness goals,Joy,Positive,High,Feeling accomplished
+Matteo,30,Male,Tablet,Online shopping,Excitement,Positive,High,Adding items to cart
+Matthijs,31,Male,Smartwatch,Setting activity goals,Motivation,Positive,High,Striving for improvement
+Karim,27,Male,Smartphone,Listening to music,Joy,Positive,High,Dancing around
+João,29,Male,Tablet,Reading news,Neutral,Neutral,Low,Scrolling down
+Serge,30,Male,Smartwatch,Checking heart rate,Excitement,Positive,High,Feeling energized
+Jonathan,28,Male,Laptop,Watching comedy series,Neutral,Neutral,High,Laughing out loud
+Koke,31,Male,Desktop,Playing video games,Excitement,Positive,High,Competing with friends
+Dani,29,Male,Smartphone,Checking social media,Neutral,Neutral,Low,Scrolling through feed
+Suso,32,Male,Smartwatch,Setting reminders,Neutral,Neutral,Low,Staying organized
+Alejandro,27,Male,Smartwatch,Tracking fitness goals,Joy,Positive,High,Feeling accomplished
